@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
                 int result = num1 + num2;
 
-                textView.setText(result+"");
+                //textView.setText(result+"");
             }
         });
 
